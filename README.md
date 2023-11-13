@@ -18,9 +18,8 @@ Die bereitgestellten Informationen sollen einen Einblick in die Analyse und Stru
 
 ## Gruppenmitglieder
 
-- Mert
-- Mike
-- Jan-Simon
-- David
+- Mert Tektas
+- Mike König
+- Jan-Simon Wallner
+- David Klumpp
 
-Vielen Dank für Ihr Interesse an diesem Risiko-Spielprojekt!
